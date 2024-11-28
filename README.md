@@ -13,4 +13,4 @@ My learning journey and self-study of Calculus, based on:
 Table of contents:
 Single Variable Calculus - MIT | Calculus - A Complete Course 9th ed
 ---|---
-- | chapter 00P: Preliminaries
+... | chapter 00P: Preliminaries
